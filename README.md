@@ -1,5 +1,5 @@
 # misc-data-science-projects
-# random data-related investigations made by Robert Aleman
+## random data-related investigations made by me
 
 Here's my collection of notebooks I've made for various data science projects involving data analysis, data visualization, or machine learning. 
 
