@@ -11,12 +11,17 @@ SVM classifier on the public Yelp dataset that uses natural language processing 
 
 ## Exploratory Analysis / Other
 
+### Investigation on Recreational Drug Use
+[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Drugs-Prevalence%20and%20Demographics.ipynb)
+
+Exploratory analysis of the prevalence of recreational drug use in the US based on the publicly avalilable National Survey on Drug Use and Health (NSDUH). Includes comparison of means, data management, and lots of data visualization in Matplotlib/Seaborn. (Python).
+
 ### Tutorial: Google Cloud Natural Language API
 [Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Google-Cloud-Sentiment-Demo.ipynb)
 
 Tutorial for the Google Cloud Natural Language API. Gives a demo of how to use the API to tokenize texts, parse them for sentiment scores, and demonstrates some possible ideas for visualizations (Python).
 
-### Investigation on Recreational Drug Use
-[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Drugs-Prevalence%20and%20Demographics.ipynb)
+### Tutorial: Requests and Data Management with NHL API
+[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/NHL-Data-Retrieval.ipynb)
 
-Exploratory analysis of the prevalence of recreational drug use in the US based on the publicly avalilable National Survey on Drug Use and Health (NSDUH). Includes comparison of means, data management, and lots of data visualization in Matplotlib/Seaborn. (Python).
+Tutorial for using the requests library to retrieve data from APIs. Simple notebook for reference and examples. (Python).
