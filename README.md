@@ -9,12 +9,17 @@ Here's my collection of notebooks I've made for various data science projects in
 
 SVM classifier on the public Yelp dataset that uses natural language processing (TF-IDF algorithm) to predict how many stars a review will get. Some visualization of the most common words used in highly-rated or poorly-rated reviews. (Python).
 
-## Exploratory Analysis / Other
+## Exploratory Analysis / Visualizations / Other
 
-### Investigation on Recreational Drug Use
+### EDA: Investigation on Recreational Drug Use
 [Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Drugs-Prevalence%20and%20Demographics.ipynb)
 
 Exploratory analysis of the prevalence of recreational drug use in the US based on the publicly avalilable National Survey on Drug Use and Health (NSDUH). Includes comparison of means, data management, and lots of data visualization in Matplotlib/Seaborn. (Python).
+
+### EDA: Census Comparison Between Three Cities in Tennessee
+[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/TN_City_Demographics.ipynb)
+
+Simple data visualizations of income and demographics from three different cities in Tennessee: one rural town, one mid-sized suburban city, and one urban metropolitan area. Data retrieved from the 2016 American Community Survey released by the US Census Bureau. (Python). 
 
 ### Tutorial: Google Cloud Natural Language API
 [Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Google-Cloud-Sentiment-Demo.ipynb)
