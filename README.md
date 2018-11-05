@@ -9,7 +9,24 @@ Here's my collection of notebooks I've made for various data science projects in
 
 SVM classifier on the public Yelp dataset that uses natural language processing (TF-IDF algorithm) to predict how many stars a review will get. Some visualization of the most common words used in highly-rated or poorly-rated reviews. (Python).
 
-## Exploratory Analysis / Visualizations / Other
+## Tutorials
+
+### Tutorial: Google Cloud Natural Language API
+[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Google-Cloud-Sentiment-Demo.ipynb)
+
+Tutorial for the Google Cloud Natural Language API. Gives a demo of how to use the API to tokenize texts, parse them for sentiment scores, and demonstrates some possible ideas for visualizations (Python).
+
+### Tutorial: Requests and Data Management with NHL API
+[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/NHL-Data-Retrieval.ipynb)
+
+Tutorial for using the requests library to retrieve data from APIs. Simple notebook for reference and examples. (Python).
+
+## Exploratory Analysis / Visualizations
+
+### Annotated Heat Maps and Dendrogams in R
+[Link to Notebook (Coming Soon).]
+
+Demonstration of cluster-based visualization on a chemical dataset. Includes visualization through heat maps, dendrogams, annotations, and more. (R).
 
 ### EDA: Investigation on Recreational Drug Use
 [Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Drugs-Prevalence%20and%20Demographics.ipynb)
@@ -21,12 +38,6 @@ Exploratory analysis of the prevalence of recreational drug use in the US based 
 
 Simple data visualizations of income and demographics from three different cities in Tennessee: one rural town, one mid-sized suburban city, and one urban metropolitan area. Data retrieved from the 2016 American Community Survey released by the US Census Bureau. (Python). 
 
-### Tutorial: Google Cloud Natural Language API
-[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Google-Cloud-Sentiment-Demo.ipynb)
 
-Tutorial for the Google Cloud Natural Language API. Gives a demo of how to use the API to tokenize texts, parse them for sentiment scores, and demonstrates some possible ideas for visualizations (Python).
 
-### Tutorial: Requests and Data Management with NHL API
-[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/NHL-Data-Retrieval.ipynb)
 
-Tutorial for using the requests library to retrieve data from APIs. Simple notebook for reference and examples. (Python).
