@@ -6,12 +6,12 @@ Here's my collection of notebooks I've made for any of my open-source data scien
 ### Text Classification: Predicting Star Ratings Using Yelp Dataset
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Yelp-Rating-Classification.ipynb)
 
-[Link to dataset.](https://www.yelp.com/dataset)
+[Link to dataset.](https://www.kaggle.com/c/GiveMeSomeCredit)
 
 Supervised classification for the official Yelp dataset that tries to predict how many stars a review will get. Includes word count vectorization with tf-idf algorithms and visualizing of word frequency and feature importance. Uses support vector machine classifier. (Python).
 
 ### Binary Classification: Defaulting on Loans with Kaggle Credit Dataset
-[Link to notebook.](https://www.google.com)
+[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Credit-Score-Binary-Classification.ipynb)
 
 [Link to dataset.](https://github.com/robaleman/misc-data-science-projects/blob/master/Credit-Score-Binary-Classification.ipynb)
 
