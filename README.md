@@ -3,11 +3,20 @@ Here's my collection of notebooks I've made for any of my open-source data scien
 
 ## Machine Learning
 
-### Yelp Dataset: Predicting Star Ratings Using Support Vector Machines
+### Text Classification: Predicting Star Ratings Using Yelp Dataset
+[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Yelp-Rating-Classification.ipynb)
 
-[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Yelp-Rating-Classification.ipynb)
+[Link to dataset.](https://www.yelp.com/dataset)
 
-SVM classifier on the public Yelp dataset that uses natural language processing (TF-IDF algorithm) to predict how many stars a review will get. Some visualization of the most common words used in highly-rated or poorly-rated reviews. (Python).
+Supervised classification for the official Yelp dataset that tries to predict how many stars a review will get. Includes word count vectorization with tf-idf algorithms and visualizing of word frequency and feature importance. Uses support vector machine classifier. (Python).
+
+### Binary Classification: Defaulting on Loans with Kaggle Credit Dataset
+[Link to notebook.](https://www.google.com)
+
+[Link to dataset.](https://github.com/robaleman/misc-data-science-projects/blob/master/Credit-Score-Binary-Classification.ipynb)
+
+Predicting whether or not a prospective borrower will default on a loan based on past data from Kaggle's Give Me Some Credit dataset. End-to-end binary classification project including different imputation methods, outlier detection, feature engineering, cross-validation, and AUC evaluation. Uses K-Nearest Neighbor, Random Forest, and XGBoost classification modeling. (R).
+
 
 ## Data Visualization & Exploratory Analysis
 
@@ -26,10 +35,6 @@ Exploratory analysis of the prevalence of recreational drug use in the US based 
 
 Simple data visualizations of income and demographics from three different cities in Tennessee: one rural town, one mid-sized suburban city, and one urban metropolitan area. Data retrieved from the 2016 American Community Survey released by the US Census Bureau. (Python). 
 
-### EDA: Time Series Analysis of Mobile App's Userbase
-[Link to Notebook (Coming Soon).]
-
-Population analysis on the user logs for a commercial mobile application. User base (both long-term and short-term) is estimated using device and profile IDs. Includes population estimation and time series visualization. (Python).
 
 ## Tutorials
 
