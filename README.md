@@ -25,6 +25,11 @@ Predicting whether or not a prospective borrower will default on a loan based on
 
 Heatmap visualization with annotations and dendrograms of categorical-heavy data from an experiment for chemistry PhD research. Includes hierarchical clustering and more. (R).
 
+### Choropleths & Other Maps with Spatial Data Visualization
+[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Choropleth-Maps.ipynb)
+
+Color-coded choropleth mapping with spatial data using two examples: crime levels across neighborhoods in San Franisco and agricultural production across different parishes in Uganda. Skills used here include joining datasets with aggregation and fuzzy matching, GIS shapefile manipulation with rgdal, and choropleth and heatmaps with ggplot2. (R).
+
 ### EDA: Investigation on Recreational Drug Use
 [Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Drugs-Prevalence%20and%20Demographics.ipynb)
 
