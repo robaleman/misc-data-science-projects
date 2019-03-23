@@ -17,6 +17,10 @@ Supervised classification for the official Yelp dataset that tries to predict ho
 
 Predicting whether or not a prospective borrower will default on a loan based on past data from Kaggle's Give Me Some Credit dataset. End-to-end binary classification project including different imputation methods, outlier detection, feature engineering, cross-validation, and AUC evaluation. Uses K-Nearest Neighbor, Random Forest, and XGBoost classification modeling. (R).
 
+### Image Classification: Recognizing Handwritten Arabic Letters
+[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Arabic-Letter-Recognition.ipynb)
+Simple support vector classifier for automatically classifying handwritten Arabic letters. Uses some small scikit-image image processing techniques. (Python).
+
 
 ## Data Visualization & Exploratory Analysis
 
