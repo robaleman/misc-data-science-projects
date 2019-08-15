@@ -1,6 +1,7 @@
 # misc-data-science-projects
 Here's my collection of notebooks I've made for any of my open-source data science projects involving data transformation, analysis, visualization, and/or machine learning. I primarily use these notebooks for my own self-reference but anyone who stumbles upon this repo is more than welcome to use anything in here in any manner they wish.
 
+
 ## Machine Learning
 
 ### Text Classification: Predicting Star Ratings Using Yelp Dataset
@@ -22,7 +23,7 @@ Predicting whether or not a prospective borrower will default on a loan based on
 Simple support vector classifier for automatically classifying handwritten Arabic letters. Uses some small scikit-image image processing techniques. (Python).
 
 
-## Data Visualization & Exploratory Analysis
+## Data Visualization / Exploratory Analysis
 
 ### Annotated Heat Maps and Dendrograms in R
 [Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Compound-Heatmap.ipynb)
@@ -39,21 +40,32 @@ Color-coded choropleth mapping with spatial data using two examples: crime level
 
 Exploratory analysis of the prevalence of recreational drug use in the US based on the publicly avalilable National Survey on Drug Use and Health (NSDUH). Includes comparison of means, data management, and lots of data visualization in Matplotlib/Seaborn. (Python).
 
+
 ### EDA: Census Comparison Between Three Cities in Tennessee
 [Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/TN_City_Demographics.ipynb)
 
 Simple data visualizations of income and demographics from three different cities in Tennessee: one rural town, one mid-sized suburban city, and one urban metropolitan area. Data retrieved from the 2016 American Community Survey released by the US Census Bureau. (Python). 
 
 
+## Linear Regression
+
+### Exploring SAT Scores in New York
+[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/SAT-Scores.ipynb)
+
+[Link to dataset.](https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4)
+
+Regression analysis of SAT scores in New York Public Schools against factors like income, race, and crime levels. Uses open data from the New York Open data project. Includes tables joins of multiple datasets, linear regression, and ANOVA (R).
+
+
 ## Tutorials
 
 ### Tutorial: Google Cloud Natural Language API
-[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Google-Cloud-Sentiment-Demo.ipynb)
+[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Google-Cloud-Sentiment-Demo.ipynb)
 
 Tutorial for the Google Cloud Natural Language API. Gives a demo of how to use the API to tokenize texts, parse them for sentiment scores, and demonstrates some possible ideas for visualizations (Python).
 
 ### Tutorial: Requests and Data Management with NHL API
-[Link to Notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/NHL-Data-Retrieval.ipynb)
+[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/NHL-Data-Retrieval.ipynb)
 
 Tutorial for using the requests library to retrieve data from APIs. Simple notebook for reference and examples. (Python).
 
