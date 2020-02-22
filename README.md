@@ -56,6 +56,13 @@ Simple data visualization of rideshare data from Uber across three different rou
 
 ## Linear Regression
 
+### Multiple Regression: Boston Housing
+[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Boston-Housing.ipynb)
+
+[Link to dataset.](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)
+
+Multiple regression run on the classic Boston Housing dataset. Analyzes factors like crime rate, economic status, commercial zoning, and others and how they may affect housing value in different neighobrhoods in 1970s Boston (Python).
+
 ### Exploring SAT Scores in New York
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/SAT-Scores.ipynb)
 
