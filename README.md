@@ -2,7 +2,8 @@
 Here's my collection of notebooks I've made for any of my open-source data science projects involving data transformation, analysis, visualization, and/or machine learning. I primarily use these notebooks for my own self-reference but anyone who stumbles upon this repo is more than welcome to use anything in here in any manner they wish.
 
 
-## Machine Learning
+
+## Classification
 
 ### Text Classification: Predicting Star Ratings Using Yelp Dataset
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Yelp-Rating-Classification.ipynb)
@@ -21,6 +22,25 @@ Predicting whether or not a prospective borrower will default on a loan based on
 ### Image Classification: Recognizing Handwritten Arabic Letters
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Arabic-Letter-Recognition.ipynb)
 Simple support vector classifier for automatically classifying handwritten Arabic letters. Uses some small scikit-image image processing techniques. (Python).
+
+
+
+## Linear Regression
+
+### Multiple Regression: Boston Housing
+[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Boston-Housing.ipynb)
+
+[Link to dataset.](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)
+
+Multiple regression run on the classic Boston Housing dataset. Analyzes factors like crime rate, economic status, commercial zoning, and others and how they may affect housing value in different neighobrhoods in 1970s Boston. Includes linear regression, multiple regression, feature selection, learning curves. (Python).
+
+### Exploring SAT Scores in New York
+[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/SAT-Scores.ipynb)
+
+[Link to dataset.](https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4)
+
+Regression analysis of SAT scores in New York Public Schools against factors like income, race, and crime levels. Uses open data from the New York Open data project. Includes tables joins of multiple datasets, linear regression, and ANOVA. (R).
+
 
 
 ## Data Visualization / Exploratory Analysis
@@ -54,24 +74,7 @@ Simple data visualization of rideshare data from Uber across three different rou
 
 
 
-## Linear Regression
-
-### Multiple Regression: Boston Housing
-[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Boston-Housing.ipynb)
-
-[Link to dataset.](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)
-
-Multiple regression run on the classic Boston Housing dataset. Analyzes factors like crime rate, economic status, commercial zoning, and others and how they may affect housing value in different neighobrhoods in 1970s Boston (Python).
-
-### Exploring SAT Scores in New York
-[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/SAT-Scores.ipynb)
-
-[Link to dataset.](https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4)
-
-Regression analysis of SAT scores in New York Public Schools against factors like income, race, and crime levels. Uses open data from the New York Open data project. Includes tables joins of multiple datasets, linear regression, and ANOVA (R).
-
-
-## Tutorials
+## Tutorials and API Demos
 
 ### Tutorial: Google Cloud Natural Language API
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Google-Cloud-Sentiment-Demo.ipynb)
