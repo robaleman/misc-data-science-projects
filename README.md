@@ -43,17 +43,7 @@ Multiple regression run on the classic Boston Housing dataset. Analyzes factors 
 Regression analysis of SAT scores in New York Public Schools against factors like income, ethnicity, and crime levels. Dataset sourced from the New York Open data project. (R).
 
 
-
-## Hash Table
-
-###: Arabic Conjugator Tool
-[Link to notebook.](https://github.com/robaleman/arabic-conjugation)
-
-Complete script for generating Arabic verb conjugations, implemented using a neat (but maybe superfluous) hash table. (Python).
-
-
-
-## Data Visualization / Exploratory Analysis
+## Exploratory Analysis / Data Visualization
 
 ### Annotated Heat Maps and Dendrograms in R
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Compound-Heatmap.ipynb)
@@ -76,6 +66,15 @@ Exploratory analysis of the prevalence of recreational drug use in the US based 
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/TN_City_Demographics.ipynb)
 
 Simple data visualizations of income and demographics from three different cities in Tennessee: one rural town, one mid-sized suburban city, and one urban metropolitan area. Data retrieved from the 2016 American Community Survey released by the US Census Bureau. (Python). 
+
+
+
+## Hash Tables
+
+### Arabic Conjugator Tool
+[Link to notebook.](https://github.com/robaleman/arabic-conjugation)
+
+Complete script for generating Arabic verb conjugations, implemented using a neat (but maybe superfluous) hash table. (Python).
 
 
 
