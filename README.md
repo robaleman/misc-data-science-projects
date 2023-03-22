@@ -1,5 +1,5 @@
 # misc-data-science-projects
-Here's my collection of various notebooks and tutorials I've made involving data transformation, analysis, visualization, and/or machine learning. I primarily use these notebooks for my own self-reference but anyone who stumbles upon this repo is more than welcome to use anything in here in any manner they wish.
+Here's my collection of various tutorials and annotated noteboks involving data structures, transformation, analysis, visualization, and/or machine learning. I primarily use these notebooks for my own self-reference but anyone who stumbles upon this repo is more than welcome to re-use any code here in any manner they wish.
 
 
 
@@ -10,14 +10,14 @@ Here's my collection of various notebooks and tutorials I've made involving data
 
 [Link to dataset.](https://www.kaggle.com/c/GiveMeSomeCredit)
 
-Supervised classification for the official Yelp dataset that tries to predict how many stars a review will get. Includes word count vectorization with tf-idf algorithms and visualizing of word frequency and feature importance. Uses support vector machine classifier. (Python).
+Supervised classification for the official Yelp dataset that tries to predict how many stars a review will get based on text content. Uses word count vectorization, SVM classification, and visualizing of word frequency and feature importance. (Python).
 
 ### Binary Classification: Defaulting on Loans with Kaggle Credit Dataset
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Credit-Score-Binary-Classification.ipynb)
 
 [Link to dataset.](https://github.com/robaleman/misc-data-science-projects/blob/master/Credit-Score-Binary-Classification.ipynb)
 
-Kaggle project: predicting whether or not a prospective borrower will default on a loan based on credit data. A "real world" problem in the sense of throwing numerous models against the wall and testing what sticks. Includes different imputation methods, outlier detection, feature engineering, cross-validation, AUC evaluation, XGBoost. (R).
+Kaggle project: predicting whether or not a prospective borrower will default on a loan based on credit data. A "real world" problem in the sense of throwing multiple models against the wall and testing what quantitatively sticks. Includes different imputation methods, outlier detection, feature engineering, cross-validation, AUC evaluation, and ultimately uses XGBoost. (R).
 
 ### Image Classification: Recognizing Handwritten Arabic Letters
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Arabic-Letter-Recognition.ipynb)
@@ -29,7 +29,7 @@ Quick proof-of-concept for an SVC that can identify images of handwritten Arabic
 ## Linear Regression
 
 ### Multiple Regression: Boston Housing
-[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Boston-Housing.ipynb)
+[Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Boston%20Housing.ipynb)
 
 [Link to dataset.](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)
 
@@ -40,7 +40,7 @@ Multiple regression run on the classic Boston Housing dataset. Analyzes factors 
 
 [Link to dataset.](https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4)
 
-Regression analysis of SAT scores in New York Public Schools against factors like income, ethnicity, and crime levels. Dataset sourced from the New York Open data project. (R).
+Regression analysis of SAT scores in New York Public Schools against factors like income, ethnicity, crime levels, and other variables that may indicate discrimination. Dataset sourced from the New York Open data project. (R).
 
 
 ## Exploratory Analysis / Data Visualization
@@ -48,7 +48,7 @@ Regression analysis of SAT scores in New York Public Schools against factors lik
 ### Annotated Heat Maps and Dendrograms in R
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Compound-Heatmap.ipynb)
 
-Heatmap visualization with annotations and dendrograms of categorical-heavy data from an experiment for chemistry PhD research. Includes hierarchical clustering and more. (R).
+Heatmap visualization with annotations and dendrograms of categorical-heavy data from a chemistry PhD research experiment. Mostly visual and includes hierarchical clustering. (R).
 
 ### Choropleths & Other Maps with Spatial Data Visualization
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/Choropleth-Maps.ipynb)
@@ -60,7 +60,7 @@ Color-coded choropleth mapping with spatial data using two examples: crime level
 
 [Link to dataset.](https://www.samhsa.gov/data/release/2017-national-survey-drug-use-and-health-nsduh-releases)
 
-Exploratory analysis of the prevalence of recreational drug use in the US based on the publicly avalilable National Survey on Drug Use and Health (NSDUH). Lots of data visualization in Matplotlib/Seaborn. This dataset contains only a single year but the NSDUH has several decades of annual data: analyzing trends over time may make a very interesting extension for someone who can take the time to scrape it. (Python).
+Exploratory analysis of the prevalence of recreational drug use in the US based on the publicly avalilable National Survey on Drug Use and Health (NSDUH) against various socioeconomic variables. Lots of data visualization in Matplotlib/Seaborn. This dataset contains only a single year but the NSDUH has a couple decades of annual data: analyzing trends over time may make a very interesting project extension for someone who can scrape it. (Python).
 
 ### EDA: Census Comparison Between Three Cities in Tennessee
 [Link to notebook.](https://github.com/robaleman/misc-data-science-projects/blob/master/TN_City_Demographics.ipynb)
@@ -71,7 +71,7 @@ Simple data visualizations of income and demographics from three different citie
 
 ## Hash Tables
 
-### Arabic Conjugator Tool
+### Arabic Verb Conjugator Tool
 [Link to notebook.](https://github.com/robaleman/arabic-conjugation)
 
 Complete script for generating Arabic verb conjugations, implemented using a neat (but maybe superfluous) hash table. (Python).
