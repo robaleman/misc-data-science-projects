@@ -1,5 +1,5 @@
 # misc-data-science-projects
-Here's my collection of various tutorials and annotated noteboks involving data structures, transformation, analysis, visualization, and/or machine learning. I primarily use these notebooks for my own self-reference but anyone who stumbles upon this repo is more than welcome to re-use any code here in any manner they wish.
+Here's my collection of various tutorials and annotated noteboks involving data structures, transformation, analysis, visualization, and/or machine learning. I primarily use these notebooks for my own code snippet glossary, but most are written in an explanatory fashion and so anyone reading this is free to re-use any code here in any manner they wish.
 
 
 
@@ -41,6 +41,7 @@ Multiple regression run on the classic Boston Housing dataset. Analyzes factors 
 [Link to dataset.](https://data.cityofnewyork.us/Education/2012-SAT-Results/f9bf-2cp4)
 
 Regression analysis of SAT scores in New York Public Schools against factors like income, ethnicity, crime levels, and other variables that may indicate discrimination. Dataset sourced from the New York Open data project. (R).
+
 
 
 ## Exploratory Analysis / Data Visualization
